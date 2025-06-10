@@ -1,4 +1,4 @@
-,Date,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
+Sr. Number,Date,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
 0,2023-11-24,Male,34,Beauty,3,50,150
 1,2023-02-27,Female,26,Clothing,2,500,1000
 2,2023-01-13,Male,50,Electronics,1,30,30
@@ -7,7 +7,7 @@
 5,2023-04-25,Female,45,Beauty,1,30,30
 6,2023-03-13,Male,46,Clothing,2,25,50
 7,2023-02-22,Male,30,Electronics,4,25,100
-8,2023-12-13,Male,63,Electronics,,300,600
+8,2023-12-13,Male,63,Electronics,2,300,600
 9,2023-10-07,Female,52,Clothing,4,50,200
 10,2023-02-14,Male,23,Clothing,2,50,100
 11,2023-10-30,Male,35,Beauty,3,25,75
