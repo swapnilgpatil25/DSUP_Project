@@ -7,7 +7,7 @@
 5,2023-04-25,Female,45,Beauty,1,30,30
 6,2023-03-13,Male,46,Clothing,2,25,50
 7,2023-02-22,Male,30,Electronics,4,25,100
-8,2023-12-13,Male,63,Electronics,2,300,600
+8,2023-12-13,Male,63,Electronics,,300,600
 9,2023-10-07,Female,52,Clothing,4,50,200
 10,2023-02-14,Male,23,Clothing,2,50,100
 11,2023-10-30,Male,35,Beauty,3,25,75
@@ -20,7 +20,7 @@
 18,2023-09-16,Female,62,Clothing,2,25,50
 19,2023-11-05,Male,22,Clothing,3,300,900
 20,2023-01-14,Female,50,Beauty,1,500,500
-21,2023-10-15,Male,18,Clothing,2,50,100
+21,2023-10-15,Male,18,Clothing,,50,100
 22,2023-04-12,Female,35,Clothing,4,30,120
 23,2023-11-29,Female,49,Clothing,1,300,300
 24,2023-12-26,Female,64,Beauty,1,50,50
